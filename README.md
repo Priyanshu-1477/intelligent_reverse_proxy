@@ -126,8 +126,8 @@ intelligent-reverse-proxy/
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd intelligent-reverse-proxy
+git clone https://github.com/Priyanshu-1477/intelligent_reverse_proxy
+cd intelligent_reverse_proxy
 ```
 
 Install dependencies using the package manager associated with your implementation.
